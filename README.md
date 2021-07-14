@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaybobOnDex
-- 👀 I’m interested HTML
+- 👀 I’m interested in advanced HTML, pentesting and networking.
 - 🌱 I’m currently learning python Bots
 - 💞️ I’m looking to collaborate on any project that money is to be made.
 - 📫 How to reach me @taybob.exe
